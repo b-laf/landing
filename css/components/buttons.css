@@ -1,0 +1,18 @@
+.button-green {
+  color: white;
+  font-weight: bold;
+  background-color: #A7727D;
+  padding: 12px 24px;
+  border-radius: 5px;
+  transition: background-color 0.5s;
+  display: inline-block;
+  box-shadow: 0 0 16px rgba(0,0,0,0.2);
+}
+
+.button-green:hover {
+  background-color: white;
+  color: #A7727D;
+  border: 1px solid #A7727D;
+  padding:11px 23px;
+
+}

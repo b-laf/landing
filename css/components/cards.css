@@ -1,0 +1,27 @@
+/* PAGES */
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+/* COMPONENTS */
+.card {
+  box-shadow: 0 0 16px rgba(0,0,0,0.2);
+  padding: 20px;
+  width:200px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items:center;
+}
+
+.card h2 {
+  font-size: 18px;
+}
+
+.card img {
+  width: 150px;
+
+}
